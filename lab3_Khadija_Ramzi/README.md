@@ -4,7 +4,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/aidi-2004-ai-enterprise/lab3_Khadija_Ramzi.git
-   cd lab3_<first_name>_<last_name>
+   cd lab3_Khadija_Ramzi
    
 # Step-by-Step Instructions to Run the App
 
