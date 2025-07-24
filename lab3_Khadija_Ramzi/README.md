@@ -41,7 +41,7 @@
 
 
 ## Demonstration
-* See demo.mp4 for:
+* See [`demo.mp4`](./demo.mp4) for:
     1. Valid predictions
     2. Input validation errors
     3. App running from Swagger UI
